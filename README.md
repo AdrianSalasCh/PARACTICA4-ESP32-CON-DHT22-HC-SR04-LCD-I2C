@@ -125,6 +125,7 @@ void loop()
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial y en el LCD.
 3. Colocar la distancia dando *doble click* al sensor **HC-SR0**
+4. Colocar la humedad y la temperatura dando *doble click* al sensor **DHT22**
 
 ## RESULTADOS
 
