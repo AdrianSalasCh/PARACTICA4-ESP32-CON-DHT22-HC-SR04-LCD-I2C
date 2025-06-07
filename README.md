@@ -112,13 +112,13 @@ void loop()
       - **DHT sensor library for ESPx**
    Como se muestra en las siguentes imagenes.
 
-![]
+![](https://github.com/AdrianSalasCh/PARACTICA4-ESP32-CON-DHT22-HC-SR04-LCD-I2C/blob/main/LiquidCrystal%20I2C%20P4.PNG)
 
-![]
+![](https://github.com/AdrianSalasCh/PARACTICA4-ESP32-CON-DHT22-HC-SR04-LCD-I2C/blob/main/DHT%20sensor%20library%20for%20ESPx%20P4.PNG)
 
-3. Hacer la conexion del HC-SR0 con la ESP32 y el LCD 16x2 (I2C) como se muestra en la siguente imagen.
+3. Hacer la conexion del HC-SR0 y el DHT22 con la ESP32 y el LCD 16x2 (I2C) como se muestra en la siguente imagen.
 
-![]
+![](https://github.com/AdrianSalasCh/PARACTICA4-ESP32-CON-DHT22-HC-SR04-LCD-I2C/blob/main/CONEXION%20P4.PNG)
 
 ### Instrucciónes de operación
 
@@ -130,9 +130,9 @@ void loop()
 
 Cuando haya funcionado, verás los valores dentro del monitor serial y en el LCD como se muestra en las siguentes imagenes.
 
-![]
+![](https://github.com/AdrianSalasCh/PARACTICA4-ESP32-CON-DHT22-HC-SR04-LCD-I2C/blob/main/SIMULACI%C3%93N%20TERMINADA%20P4-1.PNG)
 
-![]
+![](https://github.com/AdrianSalasCh/PARACTICA4-ESP32-CON-DHT22-HC-SR04-LCD-I2C/blob/main/SIMULACI%C3%93N%20TERMINADA%20P4-2.PNG)
 
 ## CRÉDITOS
 
